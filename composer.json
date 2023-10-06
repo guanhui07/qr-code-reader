@@ -1,5 +1,5 @@
 {
-    "name": "mapolun/qr-code-reader",
+    "name": "guanhui07/qr-code-reader",
     "autoload": {
         "psr-4": {
             "QrCodeReader\\": "src/"
