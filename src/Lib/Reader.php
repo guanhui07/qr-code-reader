@@ -2,7 +2,7 @@
 
 namespace QrCodeReader\Lib;
 
-require_once('qrcode/QRCodeReader.php');
+require_once('Qrcode/QRCodeReader.php');
 
 interface Reader {
 
