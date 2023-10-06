@@ -3,7 +3,7 @@ php识别二维码内容, 不需要安装扩展
 
 
 ## 安装
-$ composer require mapolun/qr-code-reader
+$ composer require guanhui07/qr-code-reader
 
 ## 要求
 * PHP >= 5.3
