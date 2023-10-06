@@ -17,7 +17,7 @@
 
 namespace QrCodeReader\Lib\Qrcode;
 
-require_once('detector/Detector.php');
+require_once('Detector/Detector.php');
 
 
 use QrCodeReader\Lib\ChecksumException;
